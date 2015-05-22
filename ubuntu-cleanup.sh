@@ -229,3 +229,4 @@ UNAR                             \
 vlc                              \
 
 #todo: add apps to install
+#todo: update for new ubuntu version
