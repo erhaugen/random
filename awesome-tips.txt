@@ -1,1 +1,2 @@
 #todo: add keyboard shortcuts
+#todo: add support for dual monitors
