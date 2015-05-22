@@ -227,3 +227,5 @@ gimp                             \
 ubuntu-restricted-extras         \
 UNAR                             \
 vlc                              \
+
+#todo: add apps to install
